@@ -1,3 +1,5 @@
+![descarga](https://user-images.githubusercontent.com/71105387/164116015-9cbf4d5d-3485-4c85-8d14-c9d9d2b12652.png)
+
 # Procesamiento de Lenguaje Natural (NLP) aplicado a Proyectos de Ley.
 
 En el siguiente repositorio se encuentran los archivos elaborados por el investigador para poder aprobar el curso NLP de sus estudios superiores. 
